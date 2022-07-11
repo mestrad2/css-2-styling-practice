@@ -1,25 +1,47 @@
 #classic {
-
+  padding: 1em;
 }
 
 #modern {
-
+  padding: 1em;
+  background-color: gold;
+  text-align: center;
+  font-family:arial;
 }
 
 #impact {
-
+  padding: 1em;
+  background-color: lightgreen;
+  border: 1em double;
+  text-align: center;
+  font-family:arial;
 }
 
 #elise {
-
+  padding: 1em;
+  background-color: white;
+  border: 0.25em outset darkgoldenrod;
+  text-align: center;
+  font-family: cursive;
 }
 
 #one, #two  {
-
+  padding: 1em;
+  background-color: #99ffdd;
+  border: 0.5em ridge lightseagreen;
+  margin-right: 1em;
+  text-align: center;
+  display:inline-block;
 }
 
 #gaudi {
-
+  padding: 1em;
+  background-color: lightsalmon;
+  font-family: sans-serif;
+  text-align: center;
+  border-radius: 1em;
+  border-top-right-radius: 3em;
+  border-bottom-left-radius: 3em;
 }
 
 
